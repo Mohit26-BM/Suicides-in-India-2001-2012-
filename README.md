@@ -1,12 +1,12 @@
 # Suicides in India (2001–2012) – Excel Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This Excel dashboard visualizes suicide trends in India over the period of 2001 to 2012 using various demographic, social, and geographical dimensions. The aim is to highlight patterns and key insights to better understand the underlying issues and draw attention to areas that may require focused intervention.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── Data
@@ -23,62 +23,67 @@ This Excel dashboard visualizes suicide trends in India over the period of 2001 
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ![Main Dashboard](Images/Dashboard/main_dashboard.png)
 
-The **Suicides in India 2001-2012** consists of multiple visual components:
-
-
-## 🔍 Key Features
-
-- **State-wise breakdown**: Explore the geographical distribution of suicides across India.  
-- **Gender-wise analysis**: Understand the disparities and nuances between male and female suicides.  
-- **Age-wise insights**: Delve into the age demographics to grasp the impact on different age groups.  
-- **Causes exploration**: Uncover the underlying reasons behind these tragic occurrences.  
-- **Means adopted**: Gain insights into the methods chosen for these unfortunate incidents.  
-- **Social & educational context**: Examine the correlation between social and educational factors with suicides.  
-- **Dynamic slicers**: Seamlessly navigate through years and genders to track changes over time.  
-
-This project isn't just about numbers; it's about shedding light on a critical issue and fostering understanding. Let's work together towards creating awareness and initiating meaningful conversations.
-
-## 📌 Key Insights
-
-- **Age-wise**: Individuals aged **15–44** had the highest number of suicides. Alarming trends also exist in the under-14 category.
-- **Gender**: **Males** committed ~56% more suicides than females over the 12-year period.
-- **Education**: **Primary and middle school educated** individuals accounted for ~50% of the total suicides.
-- **Social Status**: **Married people** constituted around 70% of the suicide cases.
-- **Methods Used**: Hanging and **insecticide consumption** were most commonly used.
-- **Causes**: Family problems were the leading cause, followed by unknown causes.
-- **States**: Highest numbers were recorded in **Maharashtra**, **West Bengal**, and **Tamil Nadu**.
-
-## 🧭 Filters Available
-
-- **Gender**: Allows toggling between Female and Male.
-- **Year**: Select specific years from **2001 to 2012** to observe trends over time
+The **Suicides in India 2001–2012** dashboard consists of multiple visual components designed for interactive exploration of the data.
 
 ---
 
-## 📌 Technologies Used
+## Key Features
 
-- **Microsoft Excel** for data visualization
-- Pivot charts, slicers, and filters for interactivity
-- Clean and dark-themed dashboard design
+* **State-wise breakdown**: Explore the geographical distribution of suicides across India.
+* **Gender-wise analysis**: Understand disparities between male and female suicides.
+* **Age-wise insights**: Analyze how different age groups are affected.
+* **Causes exploration**: Examine reported reasons behind suicide cases.
+* **Means adopted**: Understand the methods used in these incidents.
+* **Social & educational context**: Study correlations with marital status and education levels.
+* **Dynamic slicers**: Filter by year and gender for trend analysis.
 
----
-
-## 📈 Insights Gained
-- Identify the most polluted cities and countries in Asia
-- Observe seasonal trends in pollution levels
-- Compare cities and countries using dynamic filtering
-- Evaluate policy implications for high-risk regions
+This project aims to provide a data-driven perspective on a critical social issue and encourage informed discussion and awareness.
 
 ---
 
-## 📂 Tableau Workbook
+## Key Insights
 
-Located in [`Workbook/`](./Workbook):
-- `Excel_Dashboard.xlsx` – Excel workbook
+* **Age-wise**: Individuals aged **15–44** recorded the highest number of suicides, with concerning cases also among those under 14.
+* **Gender**: **Males** accounted for approximately 56% more suicides than females over the 12-year period.
+* **Education**: Individuals with **primary and middle school education** made up about half of total cases.
+* **Social Status**: **Married individuals** represented nearly 70% of recorded suicides.
+* **Methods Used**: Hanging and **insecticide consumption** were the most common methods.
+* **Causes**: **Family problems** were the leading reported cause, followed by unspecified reasons.
+* **States**: The highest numbers were reported in **Maharashtra**, **West Bengal**, and **Tamil Nadu**.
 
 ---
 
+## Filters Available
+
+* **Gender**: Toggle between male and female data
+* **Year**: Select any year from **2001 to 2012** to analyze trends
+
+---
+
+## Technologies Used
+
+* **Microsoft Excel** for data visualization
+* Pivot tables, charts, and slicers for interactivity
+* Clean, dark-themed dashboard design
+
+---
+
+## Insights Gained
+
+* Identified high-risk age groups and vulnerable demographics
+* Observed gender disparities in suicide rates
+* Analyzed the impact of marital status and education
+* Highlighted major causes and commonly used methods
+* Compared trends across different states and years
+
+---
+
+## Workbook
+
+Located in `Workbook/`:
+
+* `Excel_Dashboard.xlsx` – Excel dashboard file
